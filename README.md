@@ -8,7 +8,6 @@ Mergulhe em frameworks e se aperfeiçoe em HTML, CSS e Javascript
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-semanas">Semanas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
 </p>
 
 <p align="center">
@@ -45,10 +44,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Tela A expriência
 - Tela Setores
 
-## :memo: Licença
-
-Esse projeto está sob a licença MIT.
-
 ---
 
-Feito com ♥ by Alura :wave: [Participe da nossa comunidade!](https://discord.com/invite/QeBdgAjXnn)
+Feito com ♥ by Alura
