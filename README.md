@@ -22,15 +22,19 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-- Durante o Challenge Front-End será desenvolvido um site para a divulgação do festival de tecnologia “CodeChella”.
+O CodeChella é um festival de música alternativa que acontece anualmente, é composto por gêneros diversos e visa promover uma experiência encantadora e inesquecível para o visitante, proporcionando uma integração multicultural e social. Visando sua divulgação e a venda de ingressos o festival deseja implementar um site que possibilite essas ações:
 
-- Iremos desenvolver uma tela inicial para divulgação do line-up, uma tela para explicar o que é o evento, uma com o mapa e setores e outra para dúvidas.
+- Uma página inicial que mostrará as atrações do festival;
 
-- Além disso, o festival precisa gerar ingressos dinâmicos com nome, número do ticket e tipo de ingresso. Para isso, será necessário um formulário para receber os dados dos usuários.
+- Uma página para explicar a experiência do festival, mostrando os diversos palcos;
 
-- Durante as quatro semanas será possível desenvolver o projeto utilizando HTML, CSS e JavaScript. Além disso, iremos nos desafiar utilizando os frameworks: React, Angular, Vue e Svelte.
+- Uma página para demonstrar os setores disponíveis para compra de ingresso;
 
-- E tem mais: será possível adaptar o layout para as bandas favoritas, transformando em um projeto único.
+- Uma página de perguntas frequentes;
+
+- Uma página para compra de ingressos através do preenchimento do formulário;
+
+- Uma página para mostrar o ingresso gerado.
 
 ## 📅 Semanas
 
